@@ -19,7 +19,7 @@ Este jogo foi desenvolvido como parte de um projeto educacional na Digital Innov
 
  ## JSGame Wreck-It Ralph
 
-Welcome! This repository contains a simple game that was developed as part of a game development course project at Digital Innovation One. I followed instructions and also made some personal modifications. The game incorporates essential techniques for JavaScript development and has provided me with valuable tools for ongoing improvement.
+Welcome! This repository contains a simple game that was developed as part of a course project at Digital Innovation One. I followed instructions and also made some personal modifications. The game incorporates essential techniques for JavaScript development and has provided me with valuable tools for ongoing improvement.
 
 ## Changes Made
 
