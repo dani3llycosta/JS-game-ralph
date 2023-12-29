@@ -13,7 +13,9 @@ Este jogo foi desenvolvido como parte de um projeto educacional na Digital Innov
 
 ##
 
+
 **English version:** 
+
 
  ## JSGame Wreck-It Ralph
 
