@@ -4,8 +4,8 @@ Bem-vindo! Este repositório contém um jogo simples que foi desenvolvido como p
 
 ## Alterações Realizadas
 
-Implementei um contador de vidas que diminui cada vez que o jogador comete um erro; se atingir 0, o jogo encerra e reinicia.
-Adicionei uma opção de reinicialização após cada conclusão do temporizador ou perda total de vidas, permitindo que o jogador continue jogando, se desejar.
+- Implementei um contador de vidas que diminui cada vez que o jogador comete um erro; se atingir 0, o jogo encerra e reinicia.
+- Adicionei uma opção de reinicialização após cada conclusão do temporizador ou perda total de vidas, permitindo que o jogador continue jogando, se desejar.
 
 ## Créditos
 
