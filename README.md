@@ -11,9 +11,7 @@ Bem-vindo! Este repositório contém um jogo simples que foi desenvolvido como p
 
 Este jogo foi desenvolvido como parte de um projeto educacional na Digital Innovation One (DIO).
 
-##
-
-
+------------------------------------------------------------------------------------------------
 **English version:** 
 
 
